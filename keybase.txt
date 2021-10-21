@@ -1,4 +1,4 @@
 ---
 layout: none
-permalink: .well-known/foo.txt
+permalink: .well-known/acme-challenge/I35xeUa45fA_pUIruCFDUQKhLiTAHNsGBhco3ipYj3I
 ---
