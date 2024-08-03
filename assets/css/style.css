@@ -544,7 +544,7 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
-  background: rgba(69, 80, 91, 0.8);
+  background: rgb(249 249 249);
 }
 .portfolio .portfolio-wrap::before {
   content: "";
@@ -642,6 +642,10 @@ section {
 .portfolio .portfolio-wrap:hover .portfolio-info::after {
   bottom: 15px;
   right: 15px;
+}
+
+.gslide-media.gslide-image{
+  background-color: #f9f9f9;
 }
 
 /*--------------------------------------------------------------
